@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = TheOxfordComma::VERSION
   spec.authors       = ["Dave Kinkead"]
   spec.email         = ["dave@kinkead.com.au"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{Punctuation is important.}
+  spec.description   = %q{Punctuation is important.}
+  spec.homepage      = "https://github.com/davekinkead/oxfordcomma"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")

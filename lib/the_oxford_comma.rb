@@ -1,5 +1,11 @@
 require "the_oxford_comma/version"
 
-module TheOxfordComma
-  # Your code goes here...
+class Array
+  def and
+    self[0..-2].join(", ") << ", and #{last}"
+  end
+
+  def or
+    self[0..-2].join(", ") << ", or #{last}"
+  end
 end
