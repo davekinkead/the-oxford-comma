@@ -30,7 +30,7 @@ Or install it yourself as:
     # => "the stripers, Kennedy, and Stalin"
 
     ["the strippers", "Kennedy", "Stalin"].or
-    # => "the stripers, Kennedy, and Stalin"    
+    # => "the stripers, Kennedy, or Stalin"    
 
 
 ## Contributing
@@ -46,3 +46,5 @@ Or install it yourself as:
 Why not. 
 
 > "By train, plane and sedan chair, Peter Ustinov retraces a journey made by Mark Twain a century ago. The highlights of his global tour include encounters with Nelson Mandela, an 800-year-old demigod and a dildo collector."
+
+> "Top stories today: World leaders attend Mandella tribute, Obama and Castro meet and same-sex marriage date set."
