@@ -2,7 +2,7 @@
 
 ![Punctuation is important](OxfordComma.jpg)
 
-Punctuation is important.  There is a subtle difference between inviting the strippers, JFK, & Stalin; and inviting the stippers, JKF & Stalin.
+Punctuation is important.  There is a subtle difference between inviting the strippers, JFK, & Stalin; and inviting the strippers, JKF & Stalin.
 
 Capitalisation is also important.  There's a subtle difference between helping my Uncle Jack off a horse; and helping my uncle ...
 
@@ -30,10 +30,10 @@ Just require the gem and you'll make any sane grammatist happy.
 
 
     ["the strippers", "Kennedy", "Stalin"].and
-    # => "the stripers, Kennedy, and Stalin"
+    # => "the strippers, Kennedy, and Stalin"
 
     ["the strippers", "Kennedy", "Stalin"].or
-    # => "the stripers, Kennedy, or Stalin"    
+    # => "the strippers, Kennedy, or Stalin"    
 
 
 ## Why
