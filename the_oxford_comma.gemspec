@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["dave@kinkead.com.au"]
   spec.summary       = %q{Punctuation is important.}
   spec.description   = %q{Punctuation is important.}
-  spec.homepage      = "https://github.com/davekinkead/oxfordcomma"
+  spec.homepage      = "https://github.com/davekinkead/the-oxford-comma"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")

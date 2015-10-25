@@ -26,6 +26,9 @@ Or install it yourself as:
 
 ## Usage
 
+Just require the gem and you'll make any sane grammatist happy.
+
+
     ["the strippers", "Kennedy", "Stalin"].and
     # => "the stripers, Kennedy, and Stalin"
 
@@ -33,17 +36,9 @@ Or install it yourself as:
     # => "the stripers, Kennedy, or Stalin"    
 
 
-## Contributing
-
-1. Fork it ( https://github.com/[my-github-username]/the_oxford_comma/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
-
 ## Why
 
-Why not. 
+Why not. Punctuation is important.
 
 > "By train, plane and sedan chair, Peter Ustinov retraces a journey made by Mark Twain a century ago. The highlights of his global tour include encounters with Nelson Mandela, an 800-year-old demigod and a dildo collector."
 
