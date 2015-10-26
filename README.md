@@ -42,4 +42,4 @@ Why not. Punctuation is important.
 
 > "By train, plane and sedan chair, Peter Ustinov retraces a journey made by Mark Twain a century ago. The highlights of his global tour include encounters with Nelson Mandela, an 800-year-old demigod and a dildo collector."
 
-> "Top stories today: World leaders attend Mandella tribute, Obama and Castro meet and same-sex marriage date set."
+> "Top stories today: World leaders attend Mandela tribute, Obama and Castro meet and same-sex marriage date set."
